@@ -3,14 +3,15 @@
     "publishingInformation": {
       "locales": {
         "en-GB": {
-          "name": "Memory Market"
+          "name": "memory-market"
         }
       }
     },
     "apis": {
       "custom": {
         "endpoint": {
-          "sourceDir": "./lambda/custom"
+          "sourceDir": "./lambda/custom",
+          "uri": "memory-market-default"
         },
         "interfaces": []
       }
