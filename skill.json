@@ -3,7 +3,7 @@
     "publishingInformation": {
       "locales": {
         "en-GB": {
-          "name": "memory-market"
+          "name": "accenture aws guru"
         }
       }
     },
@@ -11,7 +11,7 @@
       "custom": {
         "endpoint": {
           "sourceDir": "./lambda/custom",
-          "uri": "memory-market-default"
+          "uri": "ask-custom-accenture_aws_guru-default"
         },
         "interfaces": []
       }
